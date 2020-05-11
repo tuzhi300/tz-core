@@ -1,0 +1,16 @@
+package net.kuper.tz.core.constant;
+
+import java.lang.annotation.Retention;
+import java.lang.annotation.RetentionPolicy;
+
+public final class Memory {
+
+    public static final int BYTE = 1;
+    public static final int KB = 1024;
+    public static final int MB = 1048576;
+    public static final int GB = 1073741824;
+
+    @Retention(RetentionPolicy.SOURCE)
+    public @interface Unit {
+    }
+}
