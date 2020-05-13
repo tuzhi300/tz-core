@@ -7,7 +7,7 @@
     <parent>
         <groupId>net.kuper.tz</groupId>
         <artifactId>tz-parent</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.01</version>
     </parent>
 
     <groupId>net.kuper.tz</groupId>
