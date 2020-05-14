@@ -12,7 +12,7 @@
 
     <groupId>net.kuper.tz</groupId>
     <artifactId>tz-core</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.01</version>
 
     <dependencies>
         <dependency>
